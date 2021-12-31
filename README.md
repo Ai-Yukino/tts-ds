@@ -5,4 +5,9 @@ This repo hosts course material for [Tech Talent South](https://www.techtalentso
 ## Links
 
 [🔗 https://goodresearch.dev/](https://goodresearch.dev/)  
-[🔗 Mamba](https://mamba.readthedocs.io/en/latest/)
+[🔗 Mamba](https://mamba.readthedocs.io/en/latest/)  
+[🔗 Jupytext](https://github.com/mwouts/jupytext)
+
+## Notes
+
+Makes sure terminal (theme) display current python virtual environment
