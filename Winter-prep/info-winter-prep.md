@@ -48,7 +48,9 @@ However, following the steps the two minute portion of the video allowed me to r
 
 ### Install and configure anaconda to not conflict with `pyenv`
 
-More details will be added later, but the follow link seems like a good first step.
+Install anaconda by downloading the installer from [here](https://www.anaconda.com/products/individual).
+
+Refer to the instructions and links below to see how to use `pyenv` and `anaconda` without conflicts.
 
 [🥞 Installing anaconda with pyenv, unable to configure virtual environment](https://stackoverflow.com/a/58045984)  
 stack overflow answer  
