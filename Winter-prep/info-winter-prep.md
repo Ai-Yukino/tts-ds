@@ -33,7 +33,8 @@ to set this version of Python as your global default.
 ### Setup and test `pyenv` installation with VS Code/Codium
 
 Follow the steps in the video below from `9:59` to `12:02`
-[🎥 How to Install and Run Multiple Python Versions on Windows 10/11 | pyenv & virtualenv Setup Tutorial](https://www.youtube.com/watch?v=HTx18uyyHw&t=9m59s)
+
+[🎥 How to Install and Run Multiple Python Versions on Windows 10/11 | pyenv & virtualenv Setup Tutorial](https://www.youtube.com/watch?v=HTx18uyyHw8&t=9m59s)
 
 The issue I ran into was that the VS Codium terminal didn't seem to detect python, i.e.
 
