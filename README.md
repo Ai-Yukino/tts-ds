@@ -10,4 +10,4 @@ This repo hosts course material for [Tech Talent South](https://www.techtalentso
 
 ## Notes
 
-Makes sure terminal (theme) display current python virtual environment
+Makes sure the terminal (theme) displays current python virtual environment
