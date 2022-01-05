@@ -56,6 +56,18 @@ Some community thoughts about mamba
 [👥 Conda: Myths and Misconceptions](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)  
 [👤 Jake VanderPlas](https://jakevdp.github.io/pages/about.html)
 
+---
+
+[👥 Can I make Tab auto-completion case-insensitive in Bash?](https://askubuntu.com/a/87066)  
+ask ubuntu  
+[👤 Panther](https://askubuntu.com/users/35795/panther)  
+[👤 masterxilo](https://askubuntu.com/users/521770/masterxilo)
+
+---
+
+[📝 About SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)  
+GitHub docs
+
 ## Notes
 
 Makes sure the terminal (theme) displays the current python virtual environment
