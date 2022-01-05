@@ -65,8 +65,12 @@ ask ubuntu
 
 ---
 
-[📝 About SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/about-ssh)  
+[📝 Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)  
 GitHub docs
+
+[🥞 Git- How to kill ssh-agent properly on Linux](https://stackoverflow.com/a/65596407)  
+[👤 user218867](https://stackoverflow.com/users/1568658/user218867)  
+[👤 Community (Bot)](https://stackoverflow.com/users/-1/community)
 
 ## Notes
 
