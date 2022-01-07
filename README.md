@@ -72,6 +72,14 @@ GitHub docs
 [👤 user218867](https://stackoverflow.com/users/1568658/user218867)  
 [👤 Community (Bot)](https://stackoverflow.com/users/-1/community)
 
+---
+
+[🎥 How to install Linux GUI apps with WSL 2 on Windows 10](https://www.youtube.com/watch?v=DooJlOPpNTI)  
+[👤 Pureinfotech](https://www.youtube.com/c/Pureinfotech)
+
+David Bomball's playlist on WSL (2):  
+[🎥 WSL 2 (Windows Subsystem for Linux)](https://www.youtube.com/playlist?list=PLhfrWIlLOoKNMHhB39bh3XBpoLxV3f0V9)
+
 ## Notes
 
 Makes sure the terminal (theme) displays the current python virtual environment
