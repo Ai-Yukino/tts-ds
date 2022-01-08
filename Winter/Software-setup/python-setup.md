@@ -13,6 +13,14 @@ If you're using macOS or a Linux OS, go to the [🐙🐱 pyenv repo](https://git
 
 If you're Windows, you have two options. To install directly on Windows, you can go to the [🐙🐱 pyenv-win](https://github.com/pyenv-win/pyenv-win#installation) repo and follow the installation instructions there. Otherwise, you can install WSL 2 (e.g. followin this [video](https://www.youtube.com/watch?v=IL7Jd9rjgrM) by David Bombal) and then install `pyenv` on your resulting Linux pseudo-virtual machine via WSL 2.
 
+Please note that the latter option is not recommended by the `pyenv` team:
+
+> Pyenv does not officially support Windows and does not work in Windows outside the Windows Subsystem for Linux. Moreover, even there, the Pythons it installs are not native Windows versions but rather Linux versions run through a compatibility layer -- so you won't get Windows-specific functionality.
+>
+> If you're in Windows, we recommend using @kirankotari's pyenv-win fork -- which does install native Windows Python versions.
+
+I'm personally choosing to do so to have a cleaner workflow since I will primarily use the WSL 2 when working with python.
+
 </details>
 
 <details>
