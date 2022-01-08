@@ -1,17 +1,25 @@
-# `info-winter-prep.md`
+# `process.md`
 
-## Tina Huang's syllabus
-
-<details>
-
-Source: [🔗 How to learn data science in 2021 (the minimize effort maximize outcome way)](https://www.youtube.com/watch?v=Axu4tJl8gbM)
-
-### Method
+Apply Tina Huang's method (from this [video](https://www.youtube.com/watch?v=Axu4tJl8gbM)):
 
 - Learn just enough
 - Do a project
 - Iterate
 - Accountability
+
+## Current task
+
+- [goodresearch.dev](https://goodresearch.dev)
+  - **Learn just enough** about python workflow for academic/scientific research
+
+---
+
+<details>
+<summary>
+Tina Huang's syllabus
+</summary>
+
+## Tina Huang's syllabus
 
 ### Python
 
