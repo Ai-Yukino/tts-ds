@@ -5,12 +5,16 @@
 <details>
 <summary>`Mambaforge` instructions</summary>
 
-TBA
+### General mambaforge installation
+
+Go to the [🐙🐱 miniforge repo](https://github.com/conda-forge/miniforge) and follow the instructions for your operating system to install `mamabaforge`. The installation files are in the [`mambaforge` section](https://github.com/conda-forge/miniforge#mambaforge), but it will make more sense if you at least skim the instructions in the [Install section](https://github.com/conda-forge/miniforge#install).
 
 </details>
 
 <details>
 <summary>Old `pyenv` instructions</summary>
+
+I decided not to use `pyenv`, but here are some instructions in case you are interested.
 
 ### Use `pyenv` for managing python versions
 
