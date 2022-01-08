@@ -80,6 +80,11 @@ GitHub docs
 David Bomball's playlist on WSL (2):  
 [🎥 WSL 2 (Windows Subsystem for Linux)](https://www.youtube.com/playlist?list=PLhfrWIlLOoKNMHhB39bh3XBpoLxV3f0V9)
 
+---
+
+[🎥 Linux Terminal & GUI Inside of Windows 10 (WSL)](https://www.youtube.com/watch?v=qYlgUDKKK5A)  
+[👤 NeuralNine](https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA)
+
 ## Notes
 
 Makes sure the terminal (theme) displays the current python virtual environment
