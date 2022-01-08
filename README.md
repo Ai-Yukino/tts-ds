@@ -89,6 +89,13 @@ Good overview of using WSL 2:
 [👥 Troubleshooting “E: Unable to locate package” Error on Ubuntu [Beginner’s Tutorial]](https://itsfoss.com/unable-to-locate-package-error-ubuntu/)  
 [👤 Abhishek Prakash](https://itsfoss.com/author/abhishek/)
 
+---
+
+Remove "less"-style branch output from `git branch`  
+[🥞 Git branch command behaves like 'less'](https://stackoverflow.com/a/48370253)  
+[👤 Zach Schneider](https://stackoverflow.com/users/2514383/zach-schneider)  
+[👤 Peter Mortensen](https://stackoverflow.com/users/63550/peter-mortensen)
+
 ## Notes
 
 Makes sure the terminal (theme) displays the current python virtual environment

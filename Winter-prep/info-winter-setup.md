@@ -2,19 +2,10 @@
 
 ## Python package managers and virtual environment managers
 
-<details>
-<summary>`Mambaforge` instructions</summary>
-
-### General mambaforge installation
-
-Go to the [🐙🐱 miniforge repo](https://github.com/conda-forge/miniforge) and follow the instructions for your operating system to install `mamabaforge`. The installation files are in the [`mambaforge` section](https://github.com/conda-forge/miniforge#mambaforge), but it will make more sense if you at least skim the instructions in the [Install section](https://github.com/conda-forge/miniforge#install).
-
-</details>
+My workflow will likely be using `pyenv` to manage versions of python (install globally) and using `mamba` to manage virtual environments and download packages from the `conda-forge` channel. The latter can be downloaded in one installation called `mambaforge`.
 
 <details>
-<summary>Old `pyenv` instructions</summary>
-
-I decided not to use `pyenv`, but here are some instructions in case you are interested.
+<summary>`pyenv` instructions</summary>
 
 ### Use `pyenv` for managing python versions
 
@@ -69,6 +60,15 @@ Refer to the instructions and links below to see how to use `pyenv` and `anacond
 [🥞 Installing anaconda with pyenv, unable to configure virtual environment](https://stackoverflow.com/a/58045984)  
 stack overflow answer  
 [👤 Simba](https://stackoverflow.com/users/5101148/simba)
+
+</details>
+
+<details>
+<summary>`mambaforge` instructions</summary>
+
+### General mambaforge installation
+
+Go to the [🐙🐱 miniforge repo](https://github.com/conda-forge/miniforge) and follow the instructions for your operating system to install `mamabaforge`. The installation files are in the [`mambaforge` section](https://github.com/conda-forge/miniforge#mambaforge), but it will make more sense if you at least skim the instructions in the [Install section](https://github.com/conda-forge/miniforge#install).
 
 </details>
 
