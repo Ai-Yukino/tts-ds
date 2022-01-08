@@ -1,8 +1,16 @@
 # `info-winter-setup.md`
 
-## Setting up Python on Windows
+## Python package managers and virtual environment managers
 
 <details>
+<summary>`Mambaforge` instructions</summary>
+
+TBA
+
+</details>
+
+<details>
+<summary>Old `pyenv` instructions</summary>
 
 ### Use `pyenv` for managing python versions
 
