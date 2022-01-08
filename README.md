@@ -82,8 +82,12 @@ David Bomball's playlist on WSL (2):
 
 ---
 
+Good overview of using WSL 2:  
 [🎥 Linux Terminal & GUI Inside of Windows 10 (WSL)](https://www.youtube.com/watch?v=qYlgUDKKK5A)  
 [👤 NeuralNine](https://www.youtube.com/channel/UC8wZnXYK_CGKlBcZp-GxYPA)
+
+[👥 Troubleshooting “E: Unable to locate package” Error on Ubuntu [Beginner’s Tutorial]](https://itsfoss.com/unable-to-locate-package-error-ubuntu/)  
+[👤 Abhishek Prakash](https://itsfoss.com/author/abhishek/)
 
 ## Notes
 
