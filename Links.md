@@ -91,3 +91,17 @@ Remove "less"-style branch output from `git branch`
 [🥞 Git branch command behaves like 'less'](https://stackoverflow.com/a/48370253)  
 [👤 Zach Schneider](https://stackoverflow.com/users/2514383/zach-schneider)  
 [👤 Peter Mortensen](https://stackoverflow.com/users/63550/peter-mortensen)
+
+---
+
+Browse WSL 2 files from Windows:  
+[👥 Access WSL2/Ubuntu Drive from File Explorer](https://docs.microsoft.com/en-us/answers/questions/116126/access-wsl2ubuntu-drive-from-file-explorer.html)  
+[👤 Sean Liming](https://docs.microsoft.com/en-us/users/sean-liming/)
+
+Tl;dr: Open a WSL 2 instance and navigate to it on Windows via
+
+```
+\\wsl$
+```
+
+in the file explorer.
