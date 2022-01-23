@@ -1,5 +1,10 @@
 # `Links.md`
 
+## CrashCourse
+
+Common sauce:
+[🍅 Crash Course statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+
 ## StatQuest
 
 Common sauce:  
