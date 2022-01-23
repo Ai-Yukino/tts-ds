@@ -1,11 +1,21 @@
 # `Links.md`
 
-## Hypothesis testing
+## StatQuest
 
-[🎥 Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!](https://www.youtube.com/watch?v=0oc49DyA3hU)  
+Common sauce:  
 [🍅 StatQuest with Josh Starmer | YouTube channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 
 ---
+
+[🎥 Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!](https://www.youtube.com/watch?v=0oc49DyA3hU)
+
+[🎥 p-values: What they are and how to interpret them](https://www.youtube.com/watch?v=vemZtEM63GY)
+
+[🎥 How to calculate p-values](https://www.youtube.com/watch?v=JQc3yx0-Q9E)
+
+---
+
+[🔗 StatQuest website](https://statquest.org/about/)
 
 <details>
 <summary>
