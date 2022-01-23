@@ -1,5 +1,17 @@
 # `Links.md`
 
+## Hypothesis testing
+
+[🎥 Hypothesis Testing and The Null Hypothesis, Clearly Explained!!!](https://www.youtube.com/watch?v=0oc49DyA3hU)  
+[🍅 StatQuest with Josh Starmer | YouTube channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+
+---
+
+<details>
+<summary>
+Old links
+</summary>
+
 [🔗 https://goodresearch.dev/](https://goodresearch.dev/)  
 [🔗 Mamba](https://mamba.readthedocs.io/en/latest/)  
 [🔗 Jupytext](https://github.com/mwouts/jupytext)
@@ -105,3 +117,5 @@ Tl;dr: Open a WSL 2 instance and navigate to it on Windows via
 ```
 
 in the file explorer.
+
+</details>
