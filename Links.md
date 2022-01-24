@@ -1,5 +1,9 @@
 # `Links.md`
 
+## Textbooks
+
+[🔗 OpenIntro | Statistics textbook options](https://www.openintro.org/book/stat/)
+
 ## Emmanuel Candes
 
 [🎥 Emmanuel Candés | Research in the Big Data Era](https://www.youtube.com/watch?v=aT06nHoo2o0)  
