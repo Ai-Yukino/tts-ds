@@ -1,5 +1,10 @@
 # `Links.md`
 
+## Emmanuel Candes
+
+[🎥 Emmanuel Candés | Research in the Big Data Era](https://www.youtube.com/watch?v=aT06nHoo2o0)  
+[🍅 University of Michigan Engineering | YouTube channel](https://www.youtube.com/channel/UCSvOdBJgMnTYsK-cZIGZSYQ)
+
 ## calmcode.io
 
 Common sauce:  
