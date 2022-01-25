@@ -1,5 +1,11 @@
 # `Links.md`
 
+## p-values
+
+[👥 how to cheat at settlers by loading the dice
+(and prove it with p-values)](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)  
+[🍅 Mike Izbicki | blog post](https://izbicki.me/)
+
 ## Textbooks
 
 [🔗 OpenIntro | Statistics textbook options](https://www.openintro.org/book/stat/)
