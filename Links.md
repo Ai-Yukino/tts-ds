@@ -1,5 +1,10 @@
 # `Links.md`
 
+## Python
+
+[🎥 Matplotlib Tutorial (Part 6): Histograms](https://www.youtube.com/watch?v=XDv6T4a0RNc)  
+[🍅 Corey Schafer | YouTube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+
 ## p-values
 
 [👥 how to cheat at settlers by loading the dice
