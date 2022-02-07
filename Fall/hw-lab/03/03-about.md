@@ -1,6 +1,6 @@
-# `03-grading.md`
+# `03-about.md`
 
-## HW: Discrete and Continuous Data Brief Quiz
+## Assignment: Hypothesis Testing Practice Quiz
 
 <div align="center" style="font-weight: bold">
 Hypothesis Testing Practice Quiz
@@ -22,23 +22,23 @@ An experimental design was agreed upon. One hundred students would be randomly s
 
 **(I recommend answering these questions first before looking at the answers in Section III)**
 
-1.         What is the null hypothesis?
+1.           What is the null hypothesis?
 
-2.         What is the alternative hypothesis?
+2.           What is the alternative hypothesis?
 
-3.         What are the two possible realities (states of the world) regarding the machines’ effectiveness?
+3.           What are the two possible realities (states of the world) regarding the machines’ effectiveness?
 
-4.         The study obtained different math improvement scores for the two groups.  What are the two relevant reasons for why this difference is there?
+4.           The study obtained different math improvement scores for the two groups.  What are the two relevant reasons for why this difference is there?
 
-5.         If we decide to use the machines but they don’t really work, is this a good decision?  What name do we give decision in terms of the hypothesis testing table?
+5.           If we decide to use the machines but they don’t really work, is this a good decision?  What name do we give decision in terms of the hypothesis testing table?
 
-6.         If we decide not to use the machines but they really do work, is this a good decision?  What name do we give to this decision in terms of the hypothesis testing table?
+6.           If we decide not to use the machines but they really do work, is this a good decision?  What name do we give to this decision in terms of the hypothesis testing table?
 
-7.         What two choices can we make about the null hypothesis?  What determines which of these two choices we make?
+7.           What two choices can we make about the null hypothesis?  What determines which of these two choices we make?
 
-8.         If the reality is the machines don’t work, and we repeated this experiment 100 times, about what percentage of the time would we decide to use the machines anyway?
+8.           If the reality is the machines don’t work, and we repeated this experiment 100 times, about what percentage of the time would we decide to use the machines anyway?
 
-9.         What might be one way of increasing the accuracy of the results of this experiment? Name two+ parameters that we have some degree of control over which might affect the results of the experiment.
+9.           What might be one way of increasing the accuracy of the results of this experiment? Name two+ parameters that we have some degree of control over which might affect the results of the experiment.
 
 Answer the questions in the text submission box.
 
